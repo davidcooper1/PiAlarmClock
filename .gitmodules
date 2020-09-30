@@ -1,0 +1,3 @@
+[submodule "spidev"]
+	path = spidev
+	url = https://github.com/doceme/py-spidev.git
